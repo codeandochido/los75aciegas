@@ -8,4 +8,4 @@ El formato de los archivos muestra que usé Jupyter Notebook para crearlos.
 
 Cualquier duda que tengas, deja tu comentario en el canal, en el video correspondiente, y trataré a la brevedad posible de responderte.
 
-Codea Chi Do! :D
+Codea ChiDo! :D
